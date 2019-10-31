@@ -9,7 +9,7 @@ namespace ConsoleApp1
             int a, b;
             Console.Write("Prpimul numar: ");
             a = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Al doilea numar: ");
+            Console.Write("Alllll doilea numar: ");
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("{0} + {1} = {2}", a,b,a+b);
             Console.WriteLine("{0} * {1} = {2}", a, b, a * b);
