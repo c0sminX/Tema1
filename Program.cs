@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int a, b;
-            Console.Write("Primul numar: ");
+            Console.Write("Prpimul numar: ");
             a = Convert.ToInt32(Console.ReadLine());
             Console.Write("Al doilea numar: ");
             b = Convert.ToInt32(Console.ReadLine());
